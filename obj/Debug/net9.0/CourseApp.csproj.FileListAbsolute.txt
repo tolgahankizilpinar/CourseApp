@@ -95,3 +95,4 @@ D:\MyCodingSamples\MVC\CourseApp\obj\Debug\net9.0\refint\CourseApp.dll
 D:\MyCodingSamples\MVC\CourseApp\obj\Debug\net9.0\CourseApp.pdb
 D:\MyCodingSamples\MVC\CourseApp\obj\Debug\net9.0\CourseApp.genruntimeconfig.cache
 D:\MyCodingSamples\MVC\CourseApp\obj\Debug\net9.0\ref\CourseApp.dll
+D:\MyCodingSamples\MVC\CourseApp\obj\Debug\net9.0\CourseApp.sourcelink.json
